@@ -1,0 +1,14 @@
+.catalog {
+  padding: 7.5rem 0 7.75rem;
+}
+
+.catalog__header {
+  margin-bottom: 7rem;
+}
+
+.catalog__cards {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  column-gap: 2rem;
+}
